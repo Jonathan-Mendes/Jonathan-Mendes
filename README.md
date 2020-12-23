@@ -2,7 +2,7 @@
 
 <h5>Sejam bem vindo a minha página do GitHub :shipit:</h5>
 
-<p>Meu nome é Jonathan Mendes, sou brasileiro <img src="https://user-images.githubusercontent.com/47995046/91626906-6efbab80-e989-11ea-99ec-88424cd8b2db.png" width="16"/>, Bacharel em Sistemas de Informação :mortar_board:, apaixonado por técnologias e programação. Atualmente estou mergulhando nos mares do Front-End :swimmer: em busca de conhecimentos e experiências novas, como UI e UX que são meus próximos objetivos.Quero fazer parte de uma geração que irá mudar o mundo, e deixar meu lagado para futuros jovens que também deseja esse feito. :octocat:</p>
+<p>Meu nome é Jonathan Mendes, sou brasileiro <img src="https://user-images.githubusercontent.com/47995046/91626906-6efbab80-e989-11ea-99ec-88424cd8b2db.png" width="16"/>, Bacharel em Sistemas de Informação :mortar_board:, apaixonado por tecnologias e programação. Atualmente estou mergulhando nos mares do Front-End :swimmer: em busca de conhecimentos e experiências novas, como UI e UX que são meus próximos objetivos. Quero fazer parte de uma geração que irá mudar o mundo, e deixar meu legado para futuros jovens que também deseja esse feito. :octocat:</p>
 
 <img align="right" height="400" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
@@ -38,6 +38,7 @@
 <h5>Databases</h5>
 <p>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=e36209" /> 
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=e36209" /> 
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=e36209" />
 <img alt="Firebird" src="https://img.shields.io/badge/-Firebird-1a1a1a?style=flat-square&logo=firebird&logoColor=e36209" />  
 </p>
