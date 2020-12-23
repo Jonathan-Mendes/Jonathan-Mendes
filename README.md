@@ -8,8 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Mendes&layout=compact)](https://github.com/Jonathan-Mendes/github-readme-stats)
 
-[![Jonathan-Mendes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonathan-Mendes)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>Ferramentas</h3>
 <h5>Web</h5>
 <p>
