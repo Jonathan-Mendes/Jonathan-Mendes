@@ -1,4 +1,4 @@
-<h1>hello World <img src="https://media.giphy.com/media/LLxBwsLTLCrNsrKRgw/giphy.gif" width="45"></h1>
+<h1>Hello World <img src="https://media.giphy.com/media/LLxBwsLTLCrNsrKRgw/giphy.gif" width="45"></h1>
 
 <h5>Sejam bem vindo a minha página do GitHub :shipit:</h5>
 
