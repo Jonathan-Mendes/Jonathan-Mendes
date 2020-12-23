@@ -7,7 +7,7 @@
 <img align="right" height="400" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Mendes&layout=compact)](https://github.com/Jonathan-Mendes/github-readme-stats)
-![Jonathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=010101&show_icons=true&title_color=ffffff&text_color=e36209)
+![Jonathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=010101&show_icons=true&title_color=e36209&text_color=ffffff)
 
 <h3>Contatos</h3>
 <p>
