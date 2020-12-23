@@ -7,11 +7,11 @@
 <img align="right" height="400" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Mendes&layout=compact)](https://github.com/Jonathan-Mendes/github-readme-stats)
-![MisaelKelviny github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=30,ffffff,010101&show_icons=true&title_color=e36209&text_color=e36209)
+![JOnathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=30,343a40,010101&show_icons=true&title_color=e36209&text_color=e36209)
 
 <h3>Contatos</h3>
 <p>
-  <a href="mailto:jonathangmendes.jgm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the- badge&logo=gmail&logoColor=orange" /></a>
+  <a href="mailto:jonathangmendes.jgm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=orange" /></a>
   <a href="https://www.instagram.com/jonathan_mendes96/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=orange" /></a>
   <a href="https://www.facebook.com/jonathan.mendes.5492216"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=orange" /></a> 
   <a href="https://www.linkedin.com/in/jonathan-mendes-192406143/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=orange" /></a>
