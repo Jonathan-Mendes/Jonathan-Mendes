@@ -6,6 +6,8 @@
 
 <img align="right" height="400" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
+<img align="right" height="400" alt="GIF" src="https://media.giphy.com/media/Pt9LRhTsEGFPi/giphy.gif" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Mendes&layout=compact)](https://github.com/Jonathan-Mendes/github-readme-stats)
 
 <h3>Ferramentas</h3>
