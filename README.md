@@ -41,7 +41,7 @@
 <img alt="C" src="https://img.shields.io/badge/-language-1a1a1a?style=flat-square&logo=c&logoColor=e36209"/>
 <h5>Skills</h5>
 <p>
-<img alt="TortoiseSVN" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=tortoisesnv&logoColor=e36209" />
+<img alt="TortoiseSVN" src="https://img.shields.io/badge/-TortoiseSVN-1a1a1a?style=flat-square&logo=tortoise&logoColor=e36209" />
 <img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=e36209" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-1a1a1a?style=flat-square&logo=Node.js&logoColor=e36209" />  
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-1a1a1a?style=flat-square&logo=heroku&logoColor=orange" /> 
