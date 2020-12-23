@@ -28,15 +28,20 @@
 <h5>Desktop</h5>
 <p>
 <img alt="java" src="https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=java&logoColor=e36209" /> 
-<img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=e36209" />   
+<img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=e36209" />  
+<img alt="Delphi" src="https://img.shields.io/badge/-Delphi-1a1a1a?style=flat-square&logo=delphi&logoColor=e36209" />
+</p>
+<h5>Databases</h5>
+<p>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=e36209" /> 
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=e36209" />
+<img alt="Firebird" src="https://img.shields.io/badge/-Firebird-1a1a1a?style=flat-square&logo=firebird&logoColor=e36209" />  
 </p>
 <h5>Skills</h5>
 <p>
 <img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=e36209" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-1a1a1a?style=flat-square&logo=Node.js&logoColor=e36209" /> 
-<img alt="Express" src="https://img.shields.io/badge/-Express-1a1a1a?style=flat-square&logo=express.js&logoColor=e36209" /> 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=e36209" /> 
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=e36209" />   
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-1a1a1a?style=flat-square&logo=Node.js&logoColor=e36209" />  
+   
 </p>
 
 
