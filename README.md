@@ -65,5 +65,5 @@
   <a href="https://www.instagram.com/jonathan_mendes96/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=e36209" /></a>
   <a href="https://www.facebook.com/jonathan.mendes.5492216"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=e36209" /></a> 
   <a href="https://www.linkedin.com/in/jonathan-mendes-192406143/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=e36209" /></a>
-  <a href="https://www.behance.net/jonathangmendes/"><img alt="Behance" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=e36209" /></a>
+  <a href="https://www.behance.net/jonathangmendes/"><img alt="Behance" src="https://img.shields.io/badge/Behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=e36209" /></a>
 </p>
