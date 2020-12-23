@@ -32,6 +32,9 @@
 <img alt="java" src="https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=java&logoColor=e36209" /> 
 <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-1a1a1a?style=flat-square&logo=delphi&logoColor=e36209" />
 </p>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Pt9LRhTsEGFPi/giphy.gif" />
+
 <h5>Other Languages</h5>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=e36209" />  
@@ -52,9 +55,6 @@
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-1a1a1a?style=flat-square&logo=heroku&logoColor=orange" /> 
 <img alt="Express" src="https://img.shields.io/badge/-Express-1a1a1a?style=flat-square&logo=express.js&logoColor=orange" /> 
 </p>
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Pt9LRhTsEGFPi/giphy.gif" />
 
 ![Jonathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=010101&show_icons=true&title_color=e36209&text_color=ffffff&theme=gruvbox)
 
