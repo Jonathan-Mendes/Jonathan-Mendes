@@ -7,6 +7,39 @@
 <img align="right" height="400" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Mendes&layout=compact)](https://github.com/Jonathan-Mendes/github-readme-stats)
+
+<h3>Ferramentas</h3>
+<h5>Web</h5>
+<p>
+<img alt="React" src="https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=e36209" /> 
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-1a1a1a?style=flat-square&logo=angular&logoColor=e36209" /> 
+<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=e36209" /> 
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=e36209" /> 
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=e36209" /> 
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=e36209" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-1a1a1a?style=flat-square&logo=bootstrap&logoColor=e36209" />
+</p>
+<h5>Mobile</h5>
+<p>
+<img alt="React Native" src="https://img.shields.io/badge/-ReactNative-1a1a1a?style=flat-square&logo=react&logoColor=e36209" /> 
+<img alt="Ionic" src="https://img.shields.io/badge/-Ionic-1a1a1a?style=flat-square&logo=ionic&logoColor=e36209" /> 
+<img alt="Android Studio" src="https://img.shields.io/badge/-Android-1a1a1a?style=flat-square&logo=android&logoColor=e36209" /> 
+</p>
+<h5>Desktop</h5>
+<p>
+<img alt="java" src="https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=java&logoColor=e36209" /> 
+<img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=e36209" />   
+</p>
+<h5>Skills</h5>
+<p>
+<img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=e36209" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-1a1a1a?style=flat-square&logo=Node.js&logoColor=e36209" /> 
+<img alt="Express" src="https://img.shields.io/badge/-Express-1a1a1a?style=flat-square&logo=express.js&logoColor=e36209" /> 
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=e36209" /> 
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=e36209" />   
+</p>
+
+
 ![Jonathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=010101&show_icons=true&title_color=e36209&text_color=ffffff)
 
 <h3>Contatos</h3>
