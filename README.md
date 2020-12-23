@@ -37,15 +37,17 @@
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=e36209" />
 <img alt="Firebird" src="https://img.shields.io/badge/-Firebird-1a1a1a?style=flat-square&logo=firebird&logoColor=e36209" />  
 </p>
+<h5>Other Languages</h5>
+<img alt="C" src="https://img.shields.io/badge/-language-1a1a1a?style=flat-square&logo=c&logoColor=e36209"/>
 <h5>Skills</h5>
 <p>
 <img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=e36209" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-1a1a1a?style=flat-square&logo=Node.js&logoColor=e36209" />  
-   
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-1a1a1a?style=flat-square&logo=heroku&logoColor=orange" /> 
+<img alt="Express" src="https://img.shields.io/badge/-Express-1a1a1a?style=flat-square&logo=express.js&logoColor=orange" /> 
 </p>
 
-
-![Jonathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=010101&show_icons=true&title_color=e36209&text_color=ffffff)
+![Jonathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=010101&show_icons=true&title_color=e36209&text_color=ffffff&theme=gruvbox)
 
 <h3>Contatos</h3>
 <p>
