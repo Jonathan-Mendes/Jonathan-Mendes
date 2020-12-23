@@ -54,7 +54,7 @@
 </p>
 
 
-<img align="right" height="300" alt="GIF" src="https://media.giphy.com/media/BaYo4N0YOHmZq/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Pt9LRhTsEGFPi/giphy.gif" />
 
 ![Jonathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=010101&show_icons=true&title_color=e36209&text_color=ffffff&theme=gruvbox)
 
