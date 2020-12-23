@@ -52,16 +52,17 @@
 <img alt="TortoiseSVN" src="https://img.shields.io/badge/-TortoiseSVN-1a1a1a?style=flat-square&logo=tortoise&logoColor=e36209" />
 <img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=e36209" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-1a1a1a?style=flat-square&logo=Node.js&logoColor=e36209" />  
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-1a1a1a?style=flat-square&logo=heroku&logoColor=orange" /> 
-<img alt="Express" src="https://img.shields.io/badge/-Express-1a1a1a?style=flat-square&logo=express.js&logoColor=orange" /> 
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-1a1a1a?style=flat-square&logo=heroku&logoColor=e36209" /> 
+<img alt="Express" src="https://img.shields.io/badge/-Express-1a1a1a?style=flat-square&logo=express.js&logoColor=e36209" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-1a1a1a?style=flat-square&logo=linux.js&logoColor=e36209" /> 
 </p>
 
 ![Jonathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=010101&show_icons=true&title_color=e36209&text_color=ffffff&theme=gruvbox)
 
 <h3>Contatos</h3>
 <p>
-  <a href="mailto:jonathangmendes.jgm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=orange" /></a>
-  <a href="https://www.instagram.com/jonathan_mendes96/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=orange" /></a>
-  <a href="https://www.facebook.com/jonathan.mendes.5492216"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=orange" /></a> 
-  <a href="https://www.linkedin.com/in/jonathan-mendes-192406143/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=orange" /></a>
+  <a href="mailto:jonathangmendes.jgm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=e36209" /></a>
+  <a href="https://www.instagram.com/jonathan_mendes96/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=e36209" /></a>
+  <a href="https://www.facebook.com/jonathan.mendes.5492216"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=e36209" /></a> 
+  <a href="https://www.linkedin.com/in/jonathan-mendes-192406143/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=e36209" /></a>
 </p>
