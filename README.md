@@ -1,4 +1,4 @@
-<h1>Hello There <img src="https://media.giphy.com/media/LLxBwsLTLCrNsrKRgw/giphy.gif" width="30"></h1>
+<h1>Hello There <img src="https://media.giphy.com/media/LLxBwsLTLCrNsrKRgw/giphy.gif" width="45"></h1>
 
 <p>Sejam bem vindo a minha página do GitHub :shipit: <p>
 
@@ -7,7 +7,7 @@
 <img align="right" height="400" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Mendes&layout=compact)](https://github.com/Jonathan-Mendes/github-readme-stats)
-![JOnathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=30,343a40,010101&show_icons=true&title_color=e36209&text_color=e36209)
+![Jonathan-Mendes github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Mendes&bg_color=30,343a40,010101&show_icons=true&title_color=e36209&text_color=e36209)
 
 <h3>Contatos</h3>
 <p>
