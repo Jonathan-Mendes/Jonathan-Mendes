@@ -19,6 +19,7 @@
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=e36209" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-1a1a1a?style=flat-square&logo=bootstrap&logoColor=e36209" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-1a1a1a?style=flat-square&logo=jquery&logoColor=e36209" />
+<img alt="PWA" src="https://img.shields.io/badge/-PWA-1a1a1a?style=flat-square&logo=pwa&logoColor=e36209" />
 </p>
 <h5>Mobile</h5>
 <p>
